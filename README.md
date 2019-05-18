@@ -25,6 +25,8 @@ il s'agit d'une barre de couleurs qui permet d'afficher les couleurs choisis
 
 ![image](https://user-images.githubusercontent.com/46228917/57969323-70a48a00-7965-11e9-9d12-10fc6c2f7771.png)
 
+![image](https://user-images.githubusercontent.com/46228917/57971286-8e7ce980-797b-11e9-9f23-e6627664caa4.png)
+
 
 
 
